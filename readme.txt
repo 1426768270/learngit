@@ -1,2 +1,2 @@
-Git us a version control system.
+Git is a distributed version control system.
 Gti is free software.
